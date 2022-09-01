@@ -8,6 +8,8 @@ If you want to learn more about Quarkus, please visit its website: https://quark
 
 Used https://code.quarkus.redhat.com/?g=org.drools.hackfest2022&a=demo20220829-cardapproval&e=resteasy-jackson&e=org.kie.kogito%3Akogito-quarkus-decisions&e=smallrye-openapi&e=kubernetes&e=container-image-jib
 
+Taken from, see also https://github.com/tarilabs/dmn-dynamic-invocation#readme
+
 <!--
 
 ## Running the application in dev mode
